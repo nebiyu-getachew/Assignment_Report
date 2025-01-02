@@ -24,7 +24,7 @@ This project implements a **data engineering pipeline** to process, store, and a
     ![alt text](image/image-1.png)
     ![alt text](image/image-2.png)
 
-    ### **Summary for Data Cleaning**
+    ### **Summary for Data Inspecting**
     - Total Rows: 
       - Transactions: 10,000
       - Users: 5,000
@@ -39,6 +39,7 @@ This project implements a **data engineering pipeline** to process, store, and a
     - Missing Data:
       - `ProductName` → 1 missing value.
     
+  ---
   3. **Clean Data**:
      - Remove duplicates.
 
@@ -75,11 +76,11 @@ This project implements a **data engineering pipeline** to process, store, and a
       - `TotalTransactions`: Count of transactions per customer.
       - `LastTransactionDate`: Latest transaction date.
 
-    # Step 1: Initialize PySpark and Load Data
+    ### Step 1: Initialize PySpark and Load Data
 
     ![alt text](image/image-11.png)
 
-    # Step 2: Create CustomerTransactionSummary
+    ### Step 2: Create CustomerTransactionSummary
 
     ![alt text](image/image-16.png)
     
@@ -90,15 +91,15 @@ This project implements a **data engineering pipeline** to process, store, and a
       - `AveragePrice`: Average price per product.
       - `UnitsSold`: Sum of quantities sold.
 
-    # Step 3: Create ProductPerformance
+    ### Step 3: Create ProductPerformance
 
     ![alt text](image/image-13.png)
 
-    # Step 4: Save the Transformed Tables
+    ### Step 4: Save the Transformed Tables
 
     ![alt text](image/image-14.png)
 
-    # Step 5: Verify the Transformed Data
+    ### Step 5: Verify the Transformed Data
 
     ![alt text](image/image-15.png)
 
