@@ -225,7 +225,7 @@ This project implements a **data engineering pipeline** to process, store, and a
 ### **Steps**
 
 #### **Step 1: Data Ingestion**
-1. Upload your raw CSV files (`transactions.csv`, `users.csv`, `products.csv`) to the Colab environment in the `raw_data` folder after you created.
+1. Upload the `shega.ipynb` notebook file. And upload the raw CSV files (`transactions.csv`, `users.csv`, `products.csv`) to the Colab environment in the `raw_data` folder after you created.
 
 2. Run the ingestion code to clean and stage the data:
 
