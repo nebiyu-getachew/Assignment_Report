@@ -249,5 +249,5 @@ This project implements a **data engineering pipeline** to process, store, and a
 ### **2. Caching**
 - Cached DataFrames used in multiple transformations to reduce recomputation.
 
-### **4. Cloud Storage**
+### **3. Cloud Storage**
 - Designed for cloud-based storage solutions like Snowflake to handle terabytes of data.

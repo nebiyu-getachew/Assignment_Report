@@ -1,0 +1,23 @@
+WITH RankedProducts AS (
+    SELECT 
+        p.Category,
+        f.ProductID,
+        p.ProductName,
+        SUM(f.Quantity) AS TotalUnitsSold,
+        ROW_NUMBER() OVER (PARTITION BY p.Category ORDER BY SUM(f.Quantity) DESC) AS Rank
+    FROM 
+        StarSchema.FactTransaction f
+    JOIN 
+        StarSchema.DimProduct p ON f.ProductID = p.ProductID
+    GROUP BY 
+        p.Category, f.ProductID, p.ProductName
+)
+SELECT 
+    Category,
+    ProductID,
+    ProductName,
+    TotalUnitsSold
+FROM 
+    RankedProducts
+WHERE 
+    Rank = 1;

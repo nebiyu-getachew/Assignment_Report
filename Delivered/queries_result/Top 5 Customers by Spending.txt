@@ -1,0 +1,13 @@
+SELECT 
+    c.CustomerID,
+    c.Name,
+    SUM(f.Quantity * f.Price) AS TotalSpent
+FROM 
+    StarSchema.FactTransaction f
+JOIN 
+    StarSchema.DimCustomer c ON f.CustomerID = c.CustomerID
+GROUP BY 
+    c.CustomerID, c.Name
+ORDER BY 
+    TotalSpent DESC
+LIMIT 5;

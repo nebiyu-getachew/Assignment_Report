@@ -1,0 +1,15 @@
+SELECT 
+    p.Category,
+    SUM(f.Quantity * f.Price) AS TotalSales
+FROM 
+    StarSchema.FactTransaction f
+JOIN 
+    StarSchema.DimProduct p ON f.ProductID = p.ProductID
+WHERE 
+    f.TransactionDate >= DATE_TRUNC('month', DATE '2024-12-24' - INTERVAL '1 month') 
+    AND f.TransactionDate < DATE_TRUNC('month', DATE '2024-12-24')
+GROUP BY 
+    p.Category
+ORDER BY 
+    TotalSales DESC
+LIMIT 1;

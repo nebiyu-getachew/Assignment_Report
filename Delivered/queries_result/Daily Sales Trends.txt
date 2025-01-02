@@ -1,0 +1,11 @@
+SELECT 
+    DATE(f.TransactionDate) AS SaleDate,
+    SUM(f.Quantity * f.Price) AS TotalSales
+FROM 
+    StarSchema.FactTransaction f
+WHERE 
+    f.TransactionDate >= DATE '2024-12-24' - INTERVAL '7 days'
+GROUP BY 
+    DATE(f.TransactionDate)
+ORDER BY 
+    SaleDate;
