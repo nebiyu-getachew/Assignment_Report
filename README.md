@@ -227,27 +227,25 @@ This project implements a **data engineering pipeline** to process, store, and a
 ## **4. How to Run the Pipeline**
 
 ### **Setup**
-1. Install dependencies:
-   ```bash
-   pip install pyspark pandas psycopg2 sqlalchemy
-   ```
-2. Configure database credentials (PostgreSQL or Snowflake).
-
+1. **Open Google Colab**:
+   - Ensure you have access to Google Colab by visiting [Google Colab](https://colab.research.google.com).
+   
 ### **Steps**
-1. **Data Ingestion**:
-   - Run the script to clean and stage data:
-     ```bash
-     python data_ingestion.py
-     ```
-2. **Data Transformation**:
-   - Run the transformation script:
-     ```bash
-     python data_transformation.py
-     ```
-3. **Data Storage**:
-   - Use the SQL scripts to create the star schema tables.
-4. **SQL Analysis**:
-   - Run provided SQL queries to extract insights.
+
+#### **Step 1: Data Ingestion**
+1. Upload your raw CSV files (`transactions.csv`, `users.csv`, `products.csv`) to the Colab environment in the `raw_data` folder after you created.
+
+2. Run the ingestion code to clean and stage the data:
+
+#### **Step 2: Data Transformation**
+1. Run the transformation code in Colab.
+
+2. Download the results to your local machine.
+
+---
+
+### **Notes**
+- All scripts should be executed cell-by-cell in Google Colab.
 
 ---
 
