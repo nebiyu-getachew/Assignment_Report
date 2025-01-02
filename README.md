@@ -1,7 +1,7 @@
 # **README**
 
 ## **1. Overview**
-This project implements a **data engineering pipeline** to process, store, and analyze transactional data for a retail business. The solution follows a modular approach using **PySpark** for data processing, **PostgreSQL/Snowflake** for storage, and SQL queries for business insights. The pipeline adheres to a **star schema design** for optimized storage and efficient querying, ensuring scalability and maintainability.
+This project implements a **data engineering pipeline** to process, store, and analyze transactional data for a retail business. The solution follows a modular approach using **Pandas** and **PySpark** for data processing, **Snowflake** for storage, and SQL queries for business insights. The pipeline adheres to a **star schema design** for optimized storage and efficient querying, ensuring scalability and maintainability.
 
 ## **2. Solution Breakdown**
 
