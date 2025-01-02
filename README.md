@@ -112,25 +112,25 @@ This project implements a **data engineering pipeline** to process, store, and a
   - **FactTransaction**:
     - Contains transactional details.
 
-    ![alt text](image/<Screenshot 2025-01-02 190248.png>)
-    ![alt text](image/<Screenshot 2025-01-02 190905.png>)
-    ![alt text](image/<Screenshot 2025-01-02 190915.png>)
-
+    ![alt text](<image/Screenshot 2025-01-02 190248.png>)
+    ![alt text](<image/Screenshot 2025-01-02 190905.png>)
+    ![alt text](<image/Screenshot 2025-01-02 190915.png>)
 
   - **DimCustomer**:
     - Contains customer information.
 
-    ![alt text](image/<Screenshot 2025-01-02 184318.png>)
-    ![alt text](image/<Screenshot 2025-01-02 191102.png>)
-    ![alt text](image/<Screenshot 2025-01-02 191112.png>)
+  ![alt text](<image/Screenshot 2025-01-02 184318.png>)
+  ![alt text](<image/Screenshot 2025-01-02 191102.png>)
+  ![alt text](<image/Screenshot 2025-01-02 191112.png>)
 
 
   - **DimProduct**:
     - Contains product metadata.
 
-    ![alt text](image/<Screenshot 2025-01-02 190132.png>)
-    ![alt text](image/<Screenshot 2025-01-02 190746.png>)
-    ![alt text](image/<Screenshot 2025-01-02 190807.png>)
+  ![alt text](<image/Screenshot 2025-01-02 190132.png>)
+  ![alt text](<image/Screenshot 2025-01-02 190746.png>)
+  ![alt text](<image/Screenshot 2025-01-02 190807.png>)
+
 
 - **Storage**:
   - Tables created in Snowflake using SQL scripts.
@@ -141,25 +141,25 @@ This project implements a **data engineering pipeline** to process, store, and a
      - Identify the top customers by total spending.
 
     ![alt text](image/image-17.png)
-    ![alt text](image/<Screenshot 2025-01-02 191446.png>)
+    ![alt text](<image/Screenshot 2025-01-02 191446.png>)
 
   2. **Best-Selling Products**:
      - Determine the best-selling product in each category.
 
     ![alt text](image/image-18.png)
-    ![alt text](image/<Screenshot 2025-01-02 191641.png>)
+    ![alt text](<image/Screenshot 2025-01-02 191641.png>)
 
   3. **Daily Sales Trends**:
      - Analyze sales trends over the last 7 days.
 
     ![alt text](image/image-19.png)
-    ![alt text](image/<Screenshot 2025-01-02 191936.png>)
+    ![alt text](<image/Screenshot 2025-01-02 191936.png>)
 
   4. **Category with Highest Sales**:
      - Find the category with the highest sales in the last month.
 
     ![alt text](image/image-20.png)
-    ![alt text](image/<Screenshot 2025-01-02 192104.png>)
+    ![alt text](<image/Screenshot 2025-01-02 192104.png>)
 
 
 ### **Task 5: Optimization**
