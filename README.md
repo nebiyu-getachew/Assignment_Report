@@ -212,15 +212,7 @@ This project implements a **data engineering pipeline** to process, store, and a
 ### **Assumptions**
 1. The input data adheres to the expected schema.
 2. `TransactionDate` and `SignupDate` are accurate and follow the ISO datetime standard.
-3. The data contains no duplicate primary keys (e.g., `CustomerID`, `ProductID`).
-
-### **Challenges**
-1. **Handling Missing Data**:
-   - Solution: Imputed missing values or excluded incomplete rows.
-2. **Scaling for Large Datasets**:
-   - Solution: Implemented partitioning and caching to optimize processing.
-3. **Efficient SQL Queries**:
-   - Solution: Used indexes and optimized joins for performance.
+3. The query has been executed on Dec 24, 2024, as the last transaction was made on Dec 23, 2024. 
 
 ---
 
@@ -256,9 +248,6 @@ This project implements a **data engineering pipeline** to process, store, and a
 
 ### **2. Caching**
 - Cached DataFrames used in multiple transformations to reduce recomputation.
-
-### **3. Bucketing**
-- Bucketed `CustomerID` and `ProductID` for faster joins.
 
 ### **4. Cloud Storage**
 - Designed for cloud-based storage solutions like Snowflake to handle terabytes of data.
