@@ -107,7 +107,7 @@ This project implements a **data engineering pipeline** to process, store, and a
 - **Objective**: Store the transformed data in a relational database using a star schema.
 - **Star Schema Design**:
 
-    ![alt text](image\SHEGA_DATA_WAREHOUSE - SHEGA_DATA_WAREHOUSE - STARSCHEMA.png)
+  ![alt text](<image/SHEGA_DATA_WAREHOUSE - SHEGA_DATA_WAREHOUSE - STARSCHEMA.png>)
 
   - **FactTransaction**:
     - Contains transactional details.
