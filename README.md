@@ -264,24 +264,3 @@ This project implements a **data engineering pipeline** to process, store, and a
 
 ### **4. Cloud Storage**
 - Designed for cloud-based storage solutions like Snowflake to handle terabytes of data.
-
----
-
-## **6. Evaluation**
-
-### **1. Technical Skills**
-- Used PySpark for ingestion, transformation, and optimization.
-- Efficient SQL queries with joins, window functions, and aggregations.
-
-### **2. Scalability**
-- Partitioning and caching techniques ensure scalability for large datasets.
-
-### **3. Code Quality**
-- Modular, well-documented, and reusable scripts.
-
-### **4. Documentation**
-- Comprehensive README with clear instructions and professional presentation.
-
----
-
-Let me know if you’d like further refinements or additional sections! 🚀

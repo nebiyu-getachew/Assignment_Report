@@ -1,0 +1,1001 @@
+ProductID,ProductName,Category,Brand,Price,StockQuantity
+P00001,Machine,Fashion,Stewart and Sons,560.83,451
+P00002,Chance,Home Appliances,"Bailey, Martinez and Blair",1480.03,503
+P00003,Speak,Electronics,"Jenkins, Perry and Cook",261.54,559
+P00004,Entire,Fashion,Rodriguez Group,1600.32,364
+P00005,Medical,Sports,Wells-Lee,97.81,32
+P00006,Society,Books,Gilmore-Ross,1902.55,248
+P00007,Energy,Sports,Turner-Cantrell,491.99,34
+P00008,Process,Electronics,"Gill, Anderson and Johnson",957.05,816
+P00009,Chair,Sports,"Gregory, Martinez and Jackson",1084.04,590
+P00010,Close,Fashion,Cruz and Sons,742.49,62
+P00011,Power,Books,Conner Inc,958.04,583
+P00012,Along,Home Appliances,Dillon LLC,1432.03,42
+P00013,Really,Home Appliances,"Griffin, Mcdonald and Eaton",46.85,273
+P00014,Pass,Sports,Wilson Inc,1239.23,476
+P00015,Share,Home Appliances,Fuller-Hall,1073.06,471
+P00016,Physical,Books,Morrow Group,890.93,57
+P00017,Car,Books,Clarke LLC,365.7,906
+P00018,Account,Groceries,Diaz-Brown,971.65,628
+P00019,Attack,Books,"Perry, Erickson and Bean",1162.9,393
+P00020,Political,Fashion,Rodriguez LLC,1045.75,17
+P00021,It,Home Appliances,"Norman, Branch and Walters",13.74,197
+P00022,Bit,Electronics,Gibbs-Cunningham,992.85,288
+P00023,Low,Fashion,"Holt, Miller and Adams",1503.11,339
+P00024,Case,Fashion,Mcdonald-Jones,180.7,527
+P00025,Her,Fashion,Smith PLC,666.34,879
+P00026,Age,Sports,Mcintyre-Fitzgerald,914.78,913
+P00027,Figure,Home Appliances,"Hart, Jenkins and Moore",1687.87,766
+P00028,Analysis,Sports,Rodriguez-Johnson,1423.61,731
+P00029,Size,Books,"Wagner, Wong and Bass",1078.35,750
+P00030,Add,Home Appliances,Gonzalez LLC,1384.88,150
+P00031,Born,Sports,"Thomas, Garcia and Beck",484.26,132
+P00032,Type,Home Appliances,Thompson Ltd,1632.34,216
+P00033,Player,Groceries,Hamilton Ltd,1562.66,333
+P00034,Year,Electronics,Landry Inc,200.97,793
+P00035,Threat,Fashion,"White, Butler and Esparza",1109.8,967
+P00036,Right,Sports,"Martin, Williams and Atkins",1121.15,593
+P00037,Final,Sports,Esparza PLC,1991.1,256
+P00038,Cost,Home Appliances,"Harris, Sosa and Castillo",26.09,599
+P00039,Ball,Books,"Medina, Mahoney and Harris",1152.77,738
+P00040,Argue,Home Appliances,"White, Harris and Lucero",898.22,722
+P00041,World,Fashion,Miller-Yang,377.39,307
+P00042,Necessary,Books,Russell-Bell,956.17,675
+P00043,Nice,Home Appliances,Davis LLC,1428.42,198
+P00044,Question,Home Appliances,George Inc,176.92,778
+P00045,Draw,Books,Henderson-Brooks,1320.27,740
+P00046,Pattern,Electronics,Dominguez-Doyle,1359.67,53
+P00047,Sing,Books,"Durham, Bailey and Norris",1520.71,380
+P00048,Score,Sports,Wilkinson-Martin,653.82,552
+P00049,But,Books,"Barrett, Whitaker and Watson",319.02,801
+P00050,Debate,Books,Perez LLC,880.19,204
+P00051,Consider,Home Appliances,"Alvarez, Stevenson and Adams",92.01,680
+P00052,Tend,Groceries,Macdonald-Smith,667.23,774
+P00053,Soon,Groceries,"Reed, Thomas and Mckee",1371.4,505
+P00054,Bag,Home Appliances,Johnson LLC,1049.22,843
+P00055,Mention,Groceries,"Harris, Pacheco and Williams",1053.24,338
+P00056,Discover,Groceries,"Morrow, Hamilton and Dunlap",1710.3,764
+P00057,Doctor,Home Appliances,Hodges-Houston,289.25,27
+P00058,Yet,Sports,Reed Group,319.14,831
+P00059,Church,Electronics,Wagner Inc,1718.28,794
+P00060,City,Fashion,Tyler PLC,1608.22,191
+P00061,These,Fashion,"Carey, Garcia and Hernandez",1099.21,271
+P00062,Message,Sports,Brown-Barr,1382.03,65
+P00063,Side,Groceries,Casey-Dyer,1422.49,55
+P00064,Develop,Home Appliances,"Gonzalez, Arroyo and Hester",1370.26,701
+P00065,Least,Home Appliances,"Lewis, Scott and Johnson",1858.66,100
+P00066,Class,Home Appliances,"Jones, Smith and Huynh",631.55,424
+P00067,Beautiful,Books,Davis-Jacobs,33.5,699
+P00068,Realize,Home Appliances,Stevens-Phillips,830.77,343
+P00069,Pattern,Home Appliances,Cowan-Cohen,1298.12,292
+P00070,President,Home Appliances,Anderson LLC,1211.71,385
+P00071,Yes,Electronics,West and Sons,1285.23,86
+P00072,Free,Home Appliances,"Baker, Kelly and Juarez",1712.46,578
+P00073,Short,Books,"Myers, Phillips and Drake",61.39,274
+P00074,Line,Electronics,"Gonzalez, Evans and Garcia",1821.98,201
+P00075,Best,Electronics,Koch Group,239.87,479
+P00076,Move,Electronics,Campos Group,999.45,532
+P00077,Question,Groceries,Hampton-Lane,29.48,398
+P00078,Child,Electronics,Woodard-Burke,601.29,163
+P00079,Today,Home Appliances,Mcdonald PLC,97.47,500
+P00080,General,Fashion,"Ellison, Gonzales and Martin",157.99,238
+P00081,Left,Home Appliances,Lopez Inc,576.84,472
+P00082,Professor,Sports,Miller and Sons,246.68,796
+P00083,Cold,Sports,Stephens LLC,1182.71,97
+P00084,Without,Electronics,Jones LLC,951.23,690
+P00085,Organization,Sports,"Burns, Schroeder and Garcia",1785.68,321
+P00086,Wonder,Sports,Rodriguez-Ryan,1328.4,642
+P00087,Mrs,Books,"White, Barnes and Cruz",568.0,30
+P00088,Girl,Groceries,Doyle-Williamson,1482.14,314
+P00089,Young,Groceries,Richards-Ross,456.79,611
+P00090,Dinner,Books,Caldwell-Wiley,1928.28,975
+P00091,Hospital,Books,Harrison and Sons,1973.33,339
+P00092,Study,Groceries,Jones LLC,1666.41,390
+P00093,Decision,Books,Nichols LLC,944.64,670
+P00094,Sit,Home Appliances,Williams-Smith,995.19,102
+P00095,Reason,Electronics,"Jackson, Terrell and Salas",1791.02,469
+P00096,Computer,Groceries,Avila PLC,937.85,893
+P00097,Safe,Home Appliances,"Romero, Munoz and Winters",703.41,761
+P00098,Identify,Books,Meyer and Sons,1916.96,850
+P00099,Discover,Electronics,Brennan Group,955.72,88
+P00100,Discuss,Books,Mason-Jones,764.32,685
+P00101,Often,Fashion,Lucas and Sons,512.94,591
+P00102,Work,Groceries,"Anderson, Marshall and Burke",1093.12,520
+P00103,Article,Sports,Benson-Gutierrez,1932.99,722
+P00104,Skill,Sports,"Williams, Diaz and Williams",1693.77,196
+P00105,Job,Books,Ayers Group,803.89,275
+P00106,Six,Home Appliances,Huffman-Dougherty,1253.2,556
+P00107,Somebody,Fashion,"Miller, Mooney and Davis",1437.43,754
+P00108,Amount,Fashion,"Strickland, Curry and Ramirez",1126.54,482
+P00109,Voice,Sports,Church-Wilson,266.62,880
+P00110,Speech,Groceries,Stewart-Fowler,732.35,943
+P00111,Improve,Home Appliances,"Tucker, Rice and Jones",1695.54,496
+P00112,Dark,Books,"Smith, Arellano and Kramer",1418.02,915
+P00113,Party,Fashion,Lowe-Powell,1937.17,371
+P00114,Relationship,Home Appliances,Barr Inc,1274.6,936
+P00115,Have,Sports,Chung LLC,908.88,520
+P00116,Option,Groceries,"Mckenzie, Bryant and Stephens",1360.35,893
+P00117,Voice,Groceries,"Gregory, Cooper and Walsh",87.68,938
+P00118,Challenge,Sports,"Frank, Miller and Brown",1261.28,273
+P00119,Board,Fashion,Todd and Sons,464.42,305
+P00120,Establish,Groceries,"Perkins, Palmer and Hawkins",1180.8,977
+P00121,Herself,Fashion,Calhoun Inc,1239.89,245
+P00122,Cause,Books,"White, Banks and Young",298.71,690
+P00123,Like,Home Appliances,"Parsons, Allen and Hurst",714.5,551
+P00124,Relationship,Fashion,Wheeler-Higgins,1595.15,695
+P00125,Sense,Sports,Lewis-Harrison,1547.26,122
+P00126,Month,Groceries,Owen-Perez,1644.3,766
+P00127,Film,Electronics,Walker Ltd,507.52,427
+P00128,Subject,Home Appliances,Warner-King,1196.27,704
+P00129,Work,Electronics,Jones Ltd,1303.59,94
+P00130,Fact,Electronics,Duffy-Mckay,871.65,809
+P00131,Play,Fashion,Williams Inc,1862.89,283
+P00132,Here,Groceries,"Anderson, Fields and Mitchell",406.43,182
+P00133,Success,Groceries,Reed-Mcneil,960.98,196
+P00134,Talk,Fashion,Lee Inc,621.84,843
+P00135,Commercial,Books,Reid LLC,1479.31,645
+P00136,Everybody,Fashion,"Gallegos, Long and Horton",216.76,274
+P00137,Young,Sports,Hall-Johnson,364.82,403
+P00138,Situation,Groceries,Turner and Sons,187.04,598
+P00139,Carry,Sports,Moss Ltd,196.97,471
+P00140,Dark,Fashion,"Sloan, Dunlap and Graham",846.78,414
+P00141,Executive,Electronics,"Best, Hartman and Perez",1913.01,443
+P00142,Within,Sports,Washington Ltd,218.09,245
+P00143,Reach,Groceries,Klein Group,1975.17,170
+P00144,Large,Groceries,"Green, Poole and Schmidt",896.82,693
+P00145,Stand,Home Appliances,Thompson-Berger,1071.72,139
+P00146,Edge,Sports,Vega-Combs,1067.94,107
+P00147,Environment,Electronics,Blair-Lynch,764.33,866
+P00148,Inside,Books,Neal-Carpenter,1823.46,97
+P00149,Amount,Home Appliances,Dominguez-Harper,942.68,274
+P00150,Class,Home Appliances,"Ware, Flowers and Martinez",906.43,365
+P00151,Relate,Fashion,Miller LLC,1169.08,853
+P00152,Fish,Books,Warren Ltd,461.98,676
+P00153,It,Electronics,"Carr, Gonzalez and Maldonado",1769.77,38
+P00154,Ability,Home Appliances,Hughes and Sons,1323.16,955
+P00155,Them,Home Appliances,Mcgee-Robinson,856.99,472
+P00156,Their,Sports,Fisher and Sons,265.76,237
+P00157,Just,Sports,Tran-Salazar,1062.73,299
+P00158,Theory,Home Appliances,"Brown, Gardner and Williams",667.56,346
+P00159,Region,Groceries,Rodriguez-Greer,107.56,897
+P00160,Official,Groceries,Hudson Group,1846.16,122
+P00161,Song,Groceries,Curtis-Pratt,1120.68,19
+P00162,Hundred,Books,"Kennedy, Smith and Jackson",1694.68,591
+P00163,Inside,Groceries,"Hunt, Gonzalez and Sanchez",112.69,225
+P00164,Beat,Groceries,Diaz-Mccoy,1287.37,136
+P00165,Red,Home Appliances,"Mcdonald, Cruz and Anderson",521.11,820
+P00166,Involve,Home Appliances,"Levine, Grant and Obrien",1634.93,81
+P00167,Wrong,Fashion,Rojas-Case,217.6,710
+P00168,Industry,Electronics,"Salinas, Brown and Wright",458.58,622
+P00169,Machine,Fashion,Smith and Sons,1103.4,531
+P00170,Night,Groceries,Smith-Stein,331.0,425
+P00171,Maintain,Sports,Ho Inc,205.27,332
+P00172,Color,Home Appliances,Rich Group,1328.18,840
+P00173,Voice,Groceries,"Chen, Perez and Conrad",62.47,935
+P00174,Rest,Electronics,Ellis-Powers,1510.76,306
+P00175,Child,Sports,Gutierrez-Fisher,1007.22,565
+P00176,Whole,Electronics,Charles-Walsh,1921.31,85
+P00177,System,Home Appliances,Wagner-Rodgers,1615.57,812
+P00178,Hold,Electronics,"Graham, Luna and Le",1002.38,335
+P00179,Live,Electronics,Johnson-Horton,628.36,155
+P00180,Test,Electronics,"Murray, Yu and Padilla",314.36,527
+P00181,Enough,Books,Mitchell Inc,889.03,314
+P00182,Movie,Groceries,"Vargas, Jones and Holloway",1720.05,949
+P00183,Care,Fashion,"Garcia, Francis and Miller",344.85,784
+P00184,Skill,Electronics,Serrano and Sons,792.01,353
+P00185,Develop,Sports,"Garcia, Saunders and Townsend",1052.94,87
+P00186,Culture,Groceries,"Hughes, Roberts and Santos",1847.72,468
+P00187,Respond,Electronics,Fleming-Roberts,104.95,219
+P00188,Suffer,Electronics,Robinson-Goodman,1951.12,48
+P00189,Appear,Sports,"Simpson, Garcia and Barber",1361.68,614
+P00190,Under,Sports,Clark-Mcfarland,591.7,265
+P00191,Score,Home Appliances,"Howard, Price and Gutierrez",1162.6,569
+P00192,Country,Sports,Lee Group,142.01,736
+P00193,Full,Sports,Alexander Group,72.27,741
+P00194,Lay,Home Appliances,"Nelson, Moore and Mahoney",1820.95,729
+P00195,Style,Home Appliances,Berry-Cameron,1684.35,650
+P00196,Off,Home Appliances,"Brown, Kennedy and Gamble",131.17,338
+P00197,College,Fashion,Gilbert Ltd,1776.39,634
+P00198,Goal,Sports,Gregory LLC,1169.83,478
+P00199,Mother,Fashion,James PLC,1792.56,119
+P00200,Weight,Books,Dawson-Torres,1966.74,233
+P00201,Together,Groceries,"Gibson, Hodges and Wallace",1077.06,83
+P00202,Action,Fashion,"Hester, Lewis and Randolph",1858.33,203
+P00203,Break,Books,Hernandez-Mitchell,1528.14,832
+P00204,Cup,Sports,Williams PLC,1763.66,537
+P00205,Discuss,Books,"Wilson, Cook and Malone",598.03,863
+P00206,Late,Home Appliances,Dunlap-Martinez,436.53,221
+P00207,Himself,Groceries,"Peterson, Lam and Williams",1631.38,527
+P00208,Player,Fashion,"Bennett, Nguyen and Joseph",1332.35,67
+P00209,Instead,Home Appliances,"Carr, Rodriguez and Glass",1654.49,437
+P00210,Record,Sports,Brown Ltd,1925.65,632
+P00211,Radio,Electronics,Bennett and Sons,1518.19,472
+P00212,Coach,Electronics,"Hernandez, Roberts and Carroll",364.33,443
+P00213,Its,Sports,Watson Ltd,1327.94,779
+P00214,Shoulder,Home Appliances,Thomas Ltd,1349.17,990
+P00215,Left,Books,Martin-Hernandez,711.71,276
+P00216,Shake,Sports,"Johnson, Griffin and Hendrix",564.49,605
+P00217,Spring,Books,Berry-Brown,1307.04,528
+P00218,Investment,Books,"James, Hopkins and Jones",738.71,730
+P00219,Career,Home Appliances,Flynn-Brewer,165.48,998
+P00220,Available,Sports,Brown-Adams,1586.88,870
+P00221,Wife,Groceries,Benitez-Price,1029.96,108
+P00222,Huge,Electronics,Davis-Blackburn,520.27,592
+P00223,Along,Home Appliances,Lambert PLC,1579.76,78
+P00224,That,Home Appliances,Simpson-Shaw,1540.63,88
+P00225,Everyone,Books,"Faulkner, Sharp and Holt",1434.56,181
+P00226,Right,Groceries,Hart Group,644.82,56
+P00227,Walk,Home Appliances,Gay-Robertson,1871.93,167
+P00228,Represent,Home Appliances,Robertson-Martinez,733.06,549
+P00229,Year,Sports,Miller-Campbell,139.04,999
+P00230,Often,Fashion,"Oneal, Jones and Carpenter",1647.15,303
+P00231,Reason,Fashion,"Hatfield, Jones and Aguilar",777.94,985
+P00232,Wait,Home Appliances,Adams-Liu,920.31,914
+P00233,Structure,Electronics,Klein Inc,160.13,542
+P00234,National,Groceries,"Ingram, Allen and Decker",1286.9,578
+P00235,Congress,Books,"Wright, Snyder and Miller",1387.67,106
+P00236,Center,Fashion,"Grimes, Christian and Barton",810.18,293
+P00237,Full,Fashion,"Ramos, Rojas and Johnson",1673.53,284
+P00238,Able,Fashion,"Jackson, Parsons and Hernandez",1660.17,383
+P00239,Instead,Home Appliances,Kennedy LLC,975.44,228
+P00240,Hotel,Fashion,Hartman-Casey,1983.68,928
+P00241,Local,Sports,Brown-Williams,72.71,222
+P00242,Activity,Electronics,Jones and Sons,797.73,957
+P00243,Such,Sports,Fuller and Sons,1898.38,336
+P00244,Now,Home Appliances,Zimmerman Ltd,465.16,849
+P00245,Help,Home Appliances,"Miller, Harmon and Brown",1572.17,983
+P00246,Always,Sports,"Howell, Rodriguez and Romero",444.45,716
+P00247,Project,Fashion,Smith-Mclaughlin,1084.61,379
+P00248,Mrs,Home Appliances,Anderson Ltd,794.97,254
+P00249,Accept,Groceries,"Garza, Adams and Thompson",951.77,958
+P00250,Stop,Groceries,Frazier-Brown,977.55,406
+P00251,Next,Fashion,Massey-Warren,368.43,618
+P00252,A,Groceries,Gordon Ltd,193.89,379
+P00253,Yard,Fashion,Jimenez-Pham,391.79,460
+P00254,Class,Fashion,Berry Ltd,940.41,412
+P00255,Themselves,Fashion,Rivera-Knight,1430.94,933
+P00256,College,Groceries,Hess and Sons,45.37,644
+P00257,Technology,Sports,"Smith, Mcbride and Huff",397.72,849
+P00258,As,Home Appliances,Walker Inc,996.43,150
+P00259,Structure,Electronics,Crawford LLC,1655.48,998
+P00260,Develop,Books,Smith-Cohen,1814.08,898
+P00261,Involve,Groceries,"Martin, Roberts and Mcintyre",589.88,481
+P00262,Recently,Books,Hancock-Patel,1242.8,69
+P00263,Successful,Books,Clark PLC,1792.38,87
+P00264,Enough,Fashion,"Contreras, Reyes and Gonzales",990.51,593
+P00265,Common,Groceries,Henderson Inc,760.38,724
+P00266,Consumer,Fashion,Olson-Holder,442.55,647
+P00267,Ability,Home Appliances,Holt-Brown,1127.1,664
+P00268,Although,Home Appliances,"Porter, Cox and Williams",835.56,623
+P00269,Beautiful,Home Appliances,Christian-Owens,1233.06,575
+P00270,Ten,Electronics,Jenkins and Sons,328.12,167
+P00271,Job,Sports,Foster-Fowler,130.02,145
+P00272,Agreement,Home Appliances,Williamson-Price,1205.03,42
+P00273,Father,Books,Burton-Hancock,1821.93,200
+P00274,Far,Home Appliances,"Hill, Parks and Jones",689.56,762
+P00275,Right,Sports,"Baker, Johnson and Gray",305.94,43
+P00276,Dark,Electronics,"Harris, Taylor and Nichols",57.81,560
+P00277,Group,Fashion,"Jones, Cruz and Ortiz",224.72,231
+P00278,Scientist,Electronics,"Payne, Smith and Pierce",1057.97,761
+P00279,Name,Fashion,"Alvarado, Friedman and Yang",1644.22,688
+P00280,Notice,Fashion,Hamilton-Williams,955.87,754
+P00281,Step,Home Appliances,Long-Craig,1196.11,553
+P00282,Make,Electronics,Jones and Sons,1776.74,320
+P00283,Full,Fashion,"Ball, Graham and Summers",1302.07,864
+P00284,Two,Home Appliances,Burns-Martinez,726.85,560
+P00285,Nice,Fashion,Jones LLC,1134.77,550
+P00286,Ask,Fashion,Parks and Sons,113.38,352
+P00287,Bad,Groceries,"Rodriguez, Mclean and Thomas",1960.62,968
+P00288,Type,Electronics,Lopez Group,677.81,870
+P00289,Wife,Groceries,"Turner, White and Johnson",1397.56,962
+P00290,Say,Sports,Haynes-Anderson,576.92,128
+P00291,Better,Books,Marks-Hawkins,1237.17,845
+P00292,Tonight,Home Appliances,Clark-Burton,1500.45,204
+P00293,Tell,Sports,Mcdonald and Sons,1338.91,700
+P00294,Side,Fashion,Smith-Gregory,454.17,390
+P00295,Wrong,Groceries,Simmons Ltd,346.46,417
+P00296,Grow,Home Appliances,Wilson PLC,833.3,513
+P00297,General,Home Appliances,Pena-Campbell,1166.94,773
+P00298,Them,Electronics,"Monroe, Hernandez and Hansen",809.73,631
+P00299,History,Groceries,Lozano-Brown,1911.11,853
+P00300,Pick,Home Appliances,Smith-Wolfe,302.88,641
+P00301,Base,Books,Gonzalez-Bright,285.44,28
+P00302,Those,Books,Gonzalez-Little,783.38,21
+P00303,Among,Groceries,"Woods, Waller and Rosales",501.71,956
+P00304,Situation,Books,"Myers, Perez and Diaz",792.18,24
+P00305,Race,Home Appliances,Harris Inc,437.64,596
+P00306,Factor,Home Appliances,Rosales Group,740.77,858
+P00307,About,Fashion,"Mercado, Rocha and Hernandez",600.85,167
+P00308,Lead,Fashion,Fuller-Garcia,706.22,25
+P00309,Play,Books,"Norton, Stokes and Robbins",1771.73,204
+P00310,Field,Fashion,Smith Ltd,916.79,440
+P00311,Second,Sports,"Ruiz, Cochran and Wood",446.15,111
+P00312,Now,Books,Dunn-Edwards,339.07,551
+P00313,Area,Fashion,Banks-Miranda,666.08,251
+P00314,Foot,Sports,Weaver-Hansen,1981.71,805
+P00315,High,Fashion,Miller and Sons,1466.43,125
+P00316,Future,Fashion,Browning PLC,1183.63,266
+P00317,Cultural,Home Appliances,Brown LLC,842.94,942
+P00318,Score,Groceries,Bowen-Rogers,1881.26,422
+P00319,Become,Electronics,Johnson-Castaneda,423.1,970
+P00320,Middle,Books,Dixon-Padilla,827.81,251
+P00321,Positive,Electronics,Kelly-Mayer,1226.55,686
+P00322,Respond,Sports,"Rodgers, Carr and Williams",1022.27,106
+P00323,My,Books,Ingram PLC,1226.82,504
+P00324,Candidate,Home Appliances,Williams PLC,707.12,779
+P00325,Need,Books,Blackburn Ltd,667.63,564
+P00326,Air,Books,"Holland, Brennan and Mcclain",112.27,376
+P00327,Step,Home Appliances,Spencer-Perkins,373.16,631
+P00328,Choose,Electronics,Salas-Estrada,380.16,559
+P00329,Between,Sports,Guzman Group,1177.27,873
+P00330,Walk,Home Appliances,Welch-Hunt,1653.97,295
+P00331,Research,Home Appliances,Jensen-Collier,1235.02,921
+P00332,Through,Books,Boyer-Price,1527.19,828
+P00333,Choice,Books,Cox-Hudson,1643.06,211
+P00334,Eight,Groceries,Smith-Jennings,1718.16,163
+P00335,Company,Sports,Young LLC,1925.03,940
+P00336,Help,Home Appliances,Chung-Hernandez,1100.23,848
+P00337,Art,Books,Pearson Group,575.03,908
+P00338,Total,Home Appliances,Herring-Christensen,1830.2,114
+P00339,Beyond,Sports,"Hess, Higgins and Martin",559.71,815
+P00340,Case,Sports,Reynolds-Hawkins,238.64,605
+P00341,Hard,Fashion,Anderson-Adams,429.78,943
+P00342,Others,Home Appliances,Williamson-Bates,193.29,758
+P00343,Performance,Groceries,"Taylor, Sanders and Hall",622.18,889
+P00344,Wrong,Fashion,Chan-Lawson,964.44,860
+P00345,Mission,Groceries,Smith-White,1659.5,493
+P00346,Whatever,Home Appliances,"Hughes, Bright and Lynch",884.37,529
+P00347,Result,Electronics,"Edwards, Valencia and Jones",826.74,415
+P00348,Force,Fashion,Gonzalez-Maddox,1107.11,961
+P00349,Begin,Fashion,"Rosales, Lopez and Jennings",1298.27,907
+P00350,Safe,Books,Haynes-Little,759.28,637
+P00351,Expert,Fashion,"Conway, Hayes and Holloway",1918.49,508
+P00352,Happen,Electronics,"Myers, Schneider and Herman",232.17,284
+P00353,Area,Home Appliances,Humphrey-Weaver,53.06,290
+P00354,Night,Books,"Mckinney, Johnson and Gomez",1869.95,391
+P00355,Seem,Electronics,Douglas Group,1032.07,842
+P00356,At,Groceries,Garcia Group,891.44,440
+P00357,Model,Books,Lambert Group,1147.58,750
+P00358,My,Home Appliances,Fleming-Wiggins,622.01,271
+P00359,Ever,Books,Vasquez-Morrison,442.49,856
+P00360,Might,Books,"Nelson, Gray and Odonnell",1860.65,386
+P00361,Fill,Home Appliances,"Barker, King and Santos",1994.73,988
+P00362,Perform,Books,Williams PLC,1930.75,327
+P00363,Republican,Sports,Barrett and Sons,1959.56,508
+P00364,Toward,Electronics,"Smith, Stephens and Porter",1993.57,908
+P00365,Call,Sports,"Garcia, Martinez and Taylor",1986.54,624
+P00366,Today,Groceries,Cole-Bush,966.11,888
+P00367,Coach,Electronics,Miller Ltd,913.33,290
+P00368,Study,Home Appliances,"Johnson, Adkins and Krause",788.52,367
+P00369,Laugh,Books,Stewart-Hudson,1286.08,959
+P00370,Couple,Electronics,Kelly-Barnes,1687.69,969
+P00371,Place,Sports,Duncan Ltd,372.86,159
+P00372,Safe,Books,Macdonald LLC,1858.38,759
+P00373,Pattern,Electronics,"Alvarez, Williams and Johnson",1975.04,458
+P00374,Dream,Fashion,"Rice, Walter and Ramirez",441.13,666
+P00375,Understand,Groceries,Porter and Sons,454.92,957
+P00376,Morning,Home Appliances,Hart Ltd,439.18,409
+P00377,Upon,Books,Harris-Foster,977.16,591
+P00378,Campaign,Home Appliances,Martinez PLC,1082.52,260
+P00379,Card,Electronics,"Lewis, May and Eaton",208.28,27
+P00380,Guess,Fashion,"Sharp, Andrews and Mcknight",1779.3,83
+P00381,Leader,Groceries,"Fritz, Leach and Sanders",1035.22,390
+P00382,Market,Fashion,"Walker, Nguyen and Nolan",1306.04,846
+P00383,Investment,Fashion,Potter-Hess,1710.25,188
+P00384,Either,Fashion,Galvan-Berry,1261.87,130
+P00385,Available,Fashion,Tucker-Ewing,1546.96,856
+P00386,Walk,Groceries,"Medina, Acosta and Kaiser",803.39,594
+P00387,Painting,Fashion,Douglas-Jacobs,265.95,765
+P00388,Ten,Groceries,"Lucas, Moore and Medina",613.94,427
+P00389,Accept,Fashion,Bryan-Campbell,361.74,997
+P00390,Raise,Fashion,"Booker, Torres and Weiss",598.48,681
+P00391,Grow,Home Appliances,Vasquez PLC,1274.83,417
+P00392,Real,Electronics,Gentry LLC,1365.61,337
+P00393,Personal,Fashion,"Garcia, Lee and Andrews",840.17,211
+P00394,Raise,Groceries,"Good, Hill and Alexander",1441.98,73
+P00395,Personal,Home Appliances,Vasquez-Gonzalez,835.81,238
+P00396,Effort,Books,Myers-Moore,31.82,220
+P00397,Condition,Home Appliances,Bell-Richardson,1861.53,71
+P00398,Instead,Fashion,"Martin, Bernard and Wells",460.55,240
+P00399,Direction,Home Appliances,Hahn PLC,837.43,142
+P00400,Much,Groceries,Rivera LLC,1085.49,887
+P00401,Population,Sports,Murphy-Moore,1731.85,819
+P00402,Structure,Home Appliances,Wood PLC,462.64,796
+P00403,Through,Fashion,Thompson-Mccoy,1860.37,50
+P00404,True,Books,"Jones, Adams and Munoz",542.12,928
+P00405,See,Sports,Russell Inc,763.6,260
+P00406,Yet,Fashion,"Bailey, Cantrell and Valencia",1060.35,193
+P00407,Local,Sports,"Watkins, Fleming and Edwards",1413.59,868
+P00408,Fill,Books,Foley Group,315.64,384
+P00409,Hit,Fashion,Roberts-Evans,1755.78,493
+P00410,Happen,Home Appliances,Lynch-Jacobs,468.19,66
+P00411,Follow,Electronics,Jarvis LLC,379.1,642
+P00412,Man,Fashion,Torres-Miller,1947.24,306
+P00413,Imagine,Fashion,Arnold Group,665.16,355
+P00414,Window,Electronics,Ward Ltd,1167.05,504
+P00415,People,Home Appliances,"Preston, Williams and Pitts",961.39,415
+P00416,Table,Fashion,"Peterson, Stewart and Schultz",902.01,205
+P00417,Pay,Home Appliances,Morgan Ltd,1037.11,997
+P00418,One,Fashion,Ewing-Rose,1018.18,486
+P00419,Never,Groceries,David Ltd,1805.98,425
+P00420,Sometimes,Home Appliances,Lee-Gonzalez,1654.41,777
+P00421,Specific,Fashion,Carey-Thomas,920.42,855
+P00422,Democratic,Sports,Walker-Rodriguez,1211.9,455
+P00423,Raise,Electronics,Green-Medina,986.29,792
+P00424,Ever,Home Appliances,Gross-Alvarado,1914.61,770
+P00425,Current,Sports,"Craig, Johnson and Harris",1509.66,353
+P00426,Since,Home Appliances,Walton LLC,1731.36,763
+P00427,Official,Electronics,Wallace-Miller,776.99,687
+P00428,Suffer,Groceries,"Ferguson, Keller and Carlson",1304.33,196
+P00429,Eye,Sports,Hill Ltd,312.88,106
+P00430,Assume,Sports,"Daniel, Jones and Howard",1480.69,544
+P00431,Method,Books,Wilkerson-Farley,283.25,557
+P00432,End,Books,Walker-Lara,1048.88,663
+P00433,Only,Electronics,"Freeman, Brown and Marshall",1506.09,747
+P00434,Republican,Home Appliances,Baker Inc,1638.92,409
+P00435,Analysis,Electronics,"Cervantes, Scott and Cohen",1413.9,960
+P00436,Agent,Home Appliances,Fritz and Sons,1686.1,169
+P00437,Success,Sports,Tanner and Sons,215.47,63
+P00438,Laugh,Sports,Anderson-Benton,914.16,624
+P00439,Movement,Groceries,"Adkins, Hogan and Wood",762.68,202
+P00440,Yeah,Home Appliances,"Flynn, Arnold and Foster",1981.96,290
+P00441,Market,Fashion,Ellis Group,1560.53,244
+P00442,Participant,Books,Bell-Griffin,1851.11,861
+P00443,Pm,Fashion,Brown PLC,1833.65,941
+P00444,Manager,Groceries,"Scott, Butler and Edwards",436.43,337
+P00445,Decade,Books,Santiago-Deleon,990.85,657
+P00446,Conference,Fashion,"Jones, Potter and Barrett",1093.86,603
+P00447,Lead,Sports,Green-Watson,1945.47,844
+P00448,Room,Fashion,Farley PLC,1923.99,805
+P00449,Possible,Home Appliances,"Bryant, Ramirez and Clark",307.81,644
+P00450,My,Electronics,Torres Group,39.56,719
+P00451,Large,Books,"Clements, Martinez and Hess",346.84,935
+P00452,Physical,Home Appliances,Sullivan Ltd,1585.54,801
+P00453,Economic,Fashion,Hicks Group,84.6,383
+P00454,Home,Groceries,Rogers-Cunningham,1870.09,452
+P00455,One,Fashion,Mccarty LLC,1758.84,880
+P00456,Summer,Groceries,"Cisneros, Jackson and Norman",1984.43,341
+P00457,College,Electronics,"Cohen, Jones and Freeman",709.31,177
+P00458,Alone,Groceries,"Wilson, Porter and Reid",1423.45,570
+P00459,Father,Books,Mitchell-Lopez,456.39,541
+P00460,Family,Fashion,Rodriguez-Jones,1672.26,199
+P00461,Herself,Fashion,"Fields, Koch and Wilcox",705.31,971
+P00462,Market,Home Appliances,Blake-Brown,1256.09,407
+P00463,What,Fashion,Anderson Group,246.5,185
+P00464,Lawyer,Sports,Owens-Powell,22.45,758
+P00465,Mr,Fashion,"Ruiz, Santos and Wood",103.68,120
+P00466,Either,Electronics,Hahn Ltd,1040.53,103
+P00467,Hope,Books,Gentry-Keller,1343.89,308
+P00468,Share,Books,Evans-Pope,981.01,954
+P00469,Current,Groceries,Mendoza PLC,1892.62,890
+P00470,Unit,Sports,Boyle Group,656.16,655
+P00471,End,Books,Salas-Rogers,1081.36,168
+P00472,High,Fashion,Hancock and Sons,1456.19,526
+P00473,Collection,Electronics,Velasquez-Murray,1629.3,229
+P00474,Hold,Electronics,Brown-Baker,311.42,495
+P00475,Name,Home Appliances,"Bullock, Roberts and Flores",1221.41,903
+P00476,Important,Fashion,Gonzalez-Bennett,1621.06,493
+P00477,Choose,Home Appliances,Nguyen-Williams,1516.17,682
+P00478,Far,Groceries,"Avila, King and Turner",210.06,77
+P00479,Item,Groceries,"Jackson, Miller and Brown",1631.34,936
+P00480,Build,Home Appliances,Matthews LLC,1911.43,144
+P00481,Bed,Electronics,Bennett-Holmes,1233.67,442
+P00482,Special,Home Appliances,"Torres, Miller and Hartman",510.16,388
+P00483,Never,Electronics,Sanders PLC,449.27,994
+P00484,Rich,Electronics,Edwards-Wilson,629.38,413
+P00485,Book,Home Appliances,"Snyder, Robinson and Richards",565.24,384
+P00486,Option,Sports,"Melton, Gomez and Rogers",1753.68,639
+P00487,Close,Fashion,"Johnson, Webb and Garner",1676.07,165
+P00488,Foreign,Groceries,"Coffey, Bryant and Stone",590.44,456
+P00489,Operation,Groceries,Holmes Ltd,529.09,168
+P00490,Pull,Home Appliances,Esparza Ltd,451.23,397
+P00491,Let,Home Appliances,Powers LLC,146.17,731
+P00492,Two,Home Appliances,Phelps LLC,160.04,956
+P00493,Everybody,Home Appliances,Taylor-Chang,121.53,885
+P00494,Allow,Electronics,Boyd Inc,587.41,564
+P00495,Statement,Books,"Olson, Lopez and Baker",1539.93,432
+P00496,West,Books,Boyd PLC,1177.18,968
+P00497,Behavior,Home Appliances,Matthews-Bauer,500.66,115
+P00498,Action,Sports,Brown-Smith,1901.6,672
+P00499,Stay,Books,"Rich, Lawson and Montoya",493.14,206
+P00500,Great,Fashion,"Meyers, Douglas and Wilson",776.21,41
+P00501,Tough,Groceries,Turner LLC,544.7,289
+P00502,When,Fashion,"Kline, Lucas and Joyce",1568.85,497
+P00503,Each,Fashion,Lee PLC,1200.75,336
+P00504,Else,Fashion,Burns Inc,1368.02,126
+P00505,Mouth,Sports,"Wilson, Burton and Nguyen",1922.31,49
+P00506,Need,Groceries,Mathews-Patrick,1086.08,989
+P00507,Late,Electronics,Larson-Andersen,710.09,202
+P00508,Future,Sports,"Lopez, Gates and Whitaker",769.92,406
+P00509,Push,Groceries,Dennis Inc,1522.67,621
+P00510,End,Home Appliances,"Cochran, Ford and Rivera",1679.42,288
+P00511,Case,Sports,Goodman Group,551.02,955
+P00512,Company,Groceries,"Perkins, Williams and Thomas",189.29,81
+P00513,Thousand,Home Appliances,Davis and Sons,800.13,69
+P00514,Speech,Electronics,Mcdaniel-Walsh,1601.96,227
+P00515,City,Home Appliances,Dominguez-Parker,313.68,748
+P00516,Word,Books,"Perez, Jones and Gardner",22.56,536
+P00517,Board,Home Appliances,Medina-Taylor,768.47,902
+P00518,Again,Groceries,"Russell, Marsh and Zimmerman",12.14,240
+P00519,Summer,Books,Howard Ltd,1346.72,75
+P00520,Wind,Electronics,"Marquez, Delgado and Ramirez",489.99,664
+P00521,Decision,Home Appliances,"Barrett, Gamble and Campbell",1729.78,796
+P00522,Several,Electronics,"Delacruz, Perez and Oliver",22.4,648
+P00523,Less,Groceries,"Alexander, Miles and Moss",131.07,36
+P00524,Action,Groceries,Jackson Inc,620.29,832
+P00525,Find,Groceries,Robinson Ltd,647.38,906
+P00526,Cup,Electronics,Stanley-Frederick,1544.51,743
+P00527,Cause,Groceries,Sharp-Miller,1187.37,783
+P00528,Team,Sports,Smith-Lee,1873.08,188
+P00529,Long,Fashion,"Wolfe, Brown and Garcia",237.82,276
+P00530,With,Sports,Barnes-Brown,1379.82,798
+P00531,Continue,Fashion,"Hoffman, Odom and Williams",618.17,508
+P00532,Nothing,Sports,"Clark, Moore and Cochran",1628.04,745
+P00533,Hot,Books,Robinson-Hodges,1750.89,127
+P00534,Explain,Fashion,"Becker, Rodriguez and Schneider",989.1,690
+P00535,Building,Groceries,Mccarty-Fitzgerald,1202.59,41
+P00536,Weight,Groceries,Navarro-Gates,1194.98,782
+P00537,Party,Fashion,"Dalton, Schmitt and Greene",390.72,938
+P00538,Become,Electronics,"Smith, Schwartz and Hodges",771.72,968
+P00539,Wrong,Groceries,"Marsh, Ochoa and Nunez",97.94,864
+P00540,Anything,Books,"Gardner, James and Wright",880.6,75
+P00541,Scene,Groceries,Obrien-Hill,109.55,455
+P00542,Community,Books,"Hayes, Carter and Thompson",1629.16,155
+P00543,Light,Sports,Sanchez-Smith,331.66,631
+P00544,That,Sports,Snow-Green,119.23,888
+P00545,Maybe,Fashion,Hansen-Ballard,434.82,632
+P00546,Message,Home Appliances,"Brown, Brown and Lopez",83.7,260
+P00547,Prepare,Sports,Price-Simpson,287.82,832
+P00548,Reduce,Home Appliances,"Page, Shaw and Lindsey",1237.91,190
+P00549,Service,Electronics,Cameron Ltd,117.77,31
+P00550,Night,Home Appliances,"Davis, Pacheco and Miller",1511.35,250
+P00551,Month,Groceries,"Jones, Thompson and Bishop",79.76,493
+P00552,Somebody,Sports,Kline-Miller,244.44,761
+P00553,Science,Groceries,Perez Ltd,1799.65,331
+P00554,Foot,Books,"Harris, Fowler and Stevens",400.59,676
+P00555,Training,Groceries,Olson-Salazar,143.3,298
+P00556,Ten,Sports,"Perez, Roth and Paul",35.48,379
+P00557,Region,Books,Sawyer Ltd,592.95,785
+P00558,Top,Home Appliances,"Vaughn, Spencer and Thomas",935.71,989
+P00559,Character,Groceries,"Hughes, Norton and Hanson",558.68,821
+P00560,Because,Home Appliances,Schroeder-Evans,910.53,601
+P00561,Take,Groceries,Shelton-Bates,318.29,657
+P00562,Myself,Sports,Graham-Rangel,73.52,69
+P00563,By,Sports,Gardner-Brown,935.38,199
+P00564,Seven,Books,"Kennedy, Nelson and Nguyen",1918.13,140
+P00565,Watch,Home Appliances,Velasquez LLC,1862.4,73
+P00566,Anything,Groceries,"Barry, Holmes and Sellers",102.44,879
+P00567,Life,Groceries,Estes-Davis,1448.11,420
+P00568,Might,Sports,Esparza Ltd,229.87,716
+P00569,Way,Fashion,"Ross, Hester and Perkins",444.97,342
+P00570,Recently,Books,Ayala-Banks,990.42,604
+P00571,Your,Home Appliances,Patrick Group,434.55,739
+P00572,No,Fashion,"Joseph, Stewart and Garrett",1662.99,553
+P00573,Throughout,Home Appliances,Garrison Inc,933.7,387
+P00574,Reality,Fashion,Hubbard PLC,1926.1,501
+P00575,Identify,Electronics,Lucas-Brown,1809.33,208
+P00576,Thing,Electronics,"Poole, Santiago and Brewer",1801.69,668
+P00577,Resource,Fashion,Young Group,1324.33,843
+P00578,Sea,Electronics,"Davenport, Garcia and Diaz",746.29,316
+P00579,Indicate,Groceries,Burns Group,1839.03,65
+P00580,Stay,Books,Torres-Smith,1507.0,908
+P00581,Town,Books,Conner-Hernandez,1812.89,584
+P00582,Modern,Books,Walker and Sons,443.4,144
+P00583,Morning,Sports,Rice-Garcia,1670.18,75
+P00584,Son,Electronics,Johnson PLC,1734.73,650
+P00585,Type,Groceries,"Gonzalez, Wilcox and Rodgers",454.19,22
+P00586,Remember,Books,Smith-Sanchez,1020.42,518
+P00587,After,Fashion,"Baker, Collins and Walker",1308.13,916
+P00588,Participant,Electronics,Andrews Ltd,913.93,521
+P00589,Stage,Books,Lowery and Sons,1082.41,171
+P00590,Drive,Sports,Price Ltd,969.9,173
+P00591,Know,Sports,"Mooney, Lopez and Hansen",1379.33,574
+P00592,Cell,Books,Salinas and Sons,470.41,493
+P00593,Become,Books,Jennings PLC,1276.01,741
+P00594,Role,Electronics,Cruz-Anderson,319.74,323
+P00595,Skin,Sports,"Gallegos, Williamson and Munoz",1049.59,531
+P00596,Fire,Groceries,"Jones, Ellis and Moore",546.87,456
+P00597,Build,Sports,"Holland, Lester and Friedman",118.14,916
+P00598,Reduce,Home Appliances,"Hartman, Howard and Moss",1565.98,381
+P00599,Suffer,Home Appliances,"Johnson, Barton and West",908.51,553
+P00600,Buy,Groceries,Dawson-Burns,1996.38,717
+P00601,Build,Sports,"Jones, Wilson and Gordon",1962.46,303
+P00602,Blue,Books,Lee-Garrett,271.71,601
+P00603,Star,Fashion,Harvey-Scott,144.27,380
+P00604,Keep,Sports,Collins PLC,1060.59,532
+P00605,Entire,Home Appliances,Luna-Jones,814.22,728
+P00606,Design,Fashion,Sanders LLC,1208.55,795
+P00607,Cup,Home Appliances,"Williams, Brock and Newman",1218.11,392
+P00608,Congress,Fashion,Johnson LLC,1861.51,872
+P00609,Customer,Home Appliances,"Schneider, Smith and Morales",141.6,429
+P00610,Read,Electronics,"Miller, Barr and Lewis",302.27,794
+P00611,Technology,Fashion,Terrell LLC,256.06,144
+P00612,Operation,Sports,Rich-Bridges,816.78,566
+P00613,Interest,Electronics,"Drake, Moreno and Diaz",382.84,593
+P00614,Court,Books,"Bartlett, Shelton and Waters",257.49,302
+P00615,Eat,Fashion,Miller Group,1998.45,691
+P00616,Establish,Books,Randolph-Howard,684.76,303
+P00617,Service,Books,Crane-Garcia,368.49,293
+P00618,Break,Fashion,"Hess, Hutchinson and Arias",1746.78,910
+P00619,Direction,Books,Curtis Group,1912.22,881
+P00620,Teacher,Groceries,Short-Howard,1517.7,49
+P00621,Low,Groceries,Torres Inc,910.78,200
+P00622,Just,Groceries,Brooks PLC,457.27,704
+P00623,Investment,Electronics,Jones and Sons,1018.11,644
+P00624,Someone,Groceries,Mcmahon-Sharp,39.72,214
+P00625,Feeling,Fashion,Watts and Sons,398.44,763
+P00626,Say,Books,Martin LLC,1333.46,803
+P00627,Reflect,Electronics,Ortega LLC,1667.93,965
+P00628,Group,Sports,Sanchez-Jones,1718.31,742
+P00629,When,Sports,"Arias, Phillips and Rowe",1408.22,197
+P00630,Later,Home Appliances,Bruce-Munoz,399.1,800
+P00631,Difficult,Groceries,Perry LLC,644.6,30
+P00632,Situation,Electronics,Taylor-Price,412.98,551
+P00633,Item,Fashion,Lambert LLC,473.63,362
+P00634,Site,Home Appliances,Goodwin-Gonzalez,636.34,682
+P00635,Expert,Sports,Andrade-Chase,318.21,954
+P00636,Medical,Books,"Mack, Harris and Mullins",809.26,705
+P00637,Available,Books,Giles and Sons,1246.9,457
+P00638,Together,Sports,Phillips Group,589.06,900
+P00639,Night,Sports,Harris-Mccullough,1580.49,553
+P00640,Day,Sports,Patterson-Hodge,1495.71,158
+P00641,Exactly,Sports,"Barron, Huffman and Beard",1819.91,845
+P00642,Life,Books,Bowman Ltd,1629.48,501
+P00643,Population,Groceries,Baird-Phillips,786.69,689
+P00644,Military,Fashion,Adams Inc,1203.92,334
+P00645,Wife,Groceries,Duncan and Sons,190.19,202
+P00646,Establish,Groceries,Zimmerman-Peters,1238.14,695
+P00647,Idea,Home Appliances,"Mayo, Reeves and King",1016.01,11
+P00648,Special,Electronics,Salinas-Gray,150.42,98
+P00649,Finally,Books,Campos LLC,597.37,295
+P00650,Wind,Books,Williams-Villanueva,1788.64,438
+P00651,Be,Home Appliances,Smith LLC,1545.78,435
+P00652,Sort,Electronics,"Larson, Armstrong and Davis",487.84,885
+P00653,Magazine,Sports,"Santos, Bauer and Nolan",1897.68,587
+P00654,Always,Home Appliances,Shepard Inc,855.8,519
+P00655,Politics,Books,"Gibson, Robertson and Richards",1015.87,906
+P00656,Language,Home Appliances,"Huynh, Mcgee and Bowman",268.31,688
+P00657,Success,Home Appliances,Vaughn-Brown,769.86,309
+P00658,Least,Groceries,Reynolds-Scott,403.72,944
+P00659,Card,Electronics,Howard Ltd,1113.43,706
+P00660,Expert,Sports,Reed LLC,311.45,224
+P00661,Religious,Sports,Baker-Walters,234.99,328
+P00662,Brother,Fashion,Wilson and Sons,1050.64,596
+P00663,Police,Electronics,"Clarke, Johnson and Watson",971.82,1000
+P00664,Available,Sports,"Donovan, Brown and Matthews",983.26,714
+P00665,President,Electronics,Chavez Ltd,72.9,536
+P00666,Yes,Electronics,"Jones, Thomas and Gray",1348.58,64
+P00667,Set,Sports,Hicks Inc,1239.21,237
+P00668,Question,Fashion,"Bush, Knight and Blanchard",312.33,166
+P00669,Everything,Fashion,Morales-Barrett,606.04,756
+P00670,Action,Fashion,Brooks-Guerra,614.91,474
+P00671,Finish,Fashion,"Perkins, Koch and Reynolds",1010.47,304
+P00672,Low,Books,Cain LLC,981.33,885
+P00673,Minute,Home Appliances,Barnes-Torres,1768.85,293
+P00674,Provide,Electronics,Johnson-Jenkins,1570.34,846
+P00675,Couple,Groceries,"Taylor, Austin and Sandoval",1981.67,549
+P00676,Relationship,Home Appliances,Martin-Hall,152.58,469
+P00677,Final,Electronics,Fritz and Sons,1185.95,772
+P00678,Music,Fashion,Allison-Reynolds,702.73,53
+P00679,Either,Home Appliances,Wright Ltd,1788.87,949
+P00680,Material,Fashion,"Choi, Brown and Simmons",114.05,439
+P00681,Early,Electronics,Romero Ltd,1978.32,322
+P00682,Go,Sports,Tucker LLC,956.71,60
+P00683,Serious,Groceries,Woods PLC,1939.61,120
+P00684,Able,Electronics,"Morrison, Bonilla and Cole",566.03,323
+P00685,He,Books,Curtis PLC,1040.45,868
+P00686,Dog,Home Appliances,Jenkins-Miller,1205.05,705
+P00687,Right,Electronics,Brown Inc,414.47,17
+P00688,Tend,Groceries,"Deleon, Kim and Le",1896.0,576
+P00689,Be,Electronics,Jenkins-Arnold,140.49,520
+P00690,Never,Groceries,Gray-Miller,416.95,941
+P00691,Get,Electronics,Smith-Noble,1860.73,191
+P00692,Second,Groceries,Schwartz LLC,1185.83,174
+P00693,Threat,Sports,Nash-Harris,741.7,830
+P00694,Teach,Books,"Bell, Maldonado and Davis",1661.39,272
+P00695,Boy,Fashion,"White, Harris and Howard",1485.03,917
+P00696,Fill,Sports,"Knight, Boyd and Long",1157.8,105
+P00697,Material,Home Appliances,"Mccarthy, Davis and Morris",1170.62,878
+P00698,Environment,Sports,Vasquez Inc,56.98,693
+P00699,Gun,Sports,Pitts-White,349.02,544
+P00700,Leader,Fashion,Perry-Hernandez,1559.95,911
+P00701,Low,Books,"Cox, Hoffman and Bowers",1349.88,487
+P00702,Start,Books,Martinez-Williams,1457.79,87
+P00703,National,Groceries,Nelson-Blanchard,944.93,309
+P00704,While,Fashion,"Carroll, Mcpherson and King",791.48,170
+P00705,Everybody,Groceries,Robinson Group,795.42,815
+P00706,Check,Groceries,Walker-Brown,1128.58,123
+P00707,Majority,Groceries,Watson LLC,331.21,488
+P00708,Later,Books,"Bell, Hall and Wade",1032.26,154
+P00709,Whom,Electronics,"Roberts, Rodriguez and Lam",1881.8,424
+P00710,Nor,Groceries,Bullock-Dalton,449.5,690
+P00711,Worry,Groceries,"West, Boyer and Williams",1309.47,767
+P00712,Argue,Fashion,Hunter-Johnson,1480.18,425
+P00713,Full,Groceries,Costa Ltd,293.87,598
+P00714,Together,Home Appliances,Mcdonald PLC,1762.32,864
+P00715,Possible,Sports,Joseph-Edwards,1944.1,913
+P00716,Case,Sports,Williams-Collier,804.56,308
+P00717,Race,Home Appliances,Hansen LLC,66.54,24
+P00718,Them,Books,Rodriguez Group,913.43,724
+P00719,Product,Fashion,"Roberson, Lee and Jackson",924.05,836
+P00720,Through,Sports,"Dyer, Frederick and Wright",1117.57,708
+P00721,Several,Electronics,"Ford, Griffin and Delacruz",89.32,545
+P00722,Hot,Fashion,Martinez LLC,163.93,230
+P00723,Score,Groceries,Conway LLC,1581.41,16
+P00724,Political,Fashion,"Stokes, Hansen and Morris",1408.28,991
+P00725,Pass,Groceries,Lee Group,1115.8,279
+P00726,Give,Fashion,Bishop-Mccoy,1097.16,310
+P00727,Hundred,Sports,Johnson-Yoder,1901.69,541
+P00728,Check,Sports,Williams-Lambert,1582.44,639
+P00729,Listen,Home Appliances,"Frye, Smith and Hendrix",829.52,159
+P00730,Choose,Home Appliances,Porter Ltd,1476.05,526
+P00731,High,Sports,Garcia Ltd,1626.77,520
+P00732,Surface,Home Appliances,Vincent Group,295.5,816
+P00733,Final,Home Appliances,"Campbell, Johnston and Parker",510.4,203
+P00734,Stay,Home Appliances,Reyes Inc,446.62,712
+P00735,Good,Books,"Vance, Fox and Allison",238.61,262
+P00736,Begin,Fashion,"Santos, Richards and Hull",294.19,550
+P00737,Contain,Electronics,Mcknight and Sons,1402.25,666
+P00738,Success,Fashion,"Jones, Turner and Keith",950.14,591
+P00739,Data,Home Appliances,Davis-Conley,1477.79,805
+P00740,Business,Home Appliances,Grimes-Williams,1608.1,600
+P00741,Western,Fashion,Aguilar and Sons,1479.97,280
+P00742,Concern,Books,"Bradshaw, Peters and Robinson",1995.13,712
+P00743,Increase,Electronics,Mann LLC,244.56,928
+P00744,Great,Groceries,Smith-Rich,1053.45,403
+P00745,Run,Books,"Lewis, Gonzalez and Bowers",666.83,532
+P00746,Rock,Electronics,"Griffin, Lee and Marquez",1928.41,749
+P00747,Kind,Electronics,Ross Ltd,616.99,75
+P00748,Long,Books,Pham-Payne,361.57,57
+P00749,Itself,Books,Jensen-Garcia,756.97,494
+P00750,Player,Home Appliances,Davis-Clark,464.71,646
+P00751,Minute,Sports,Thompson Group,1564.99,895
+P00752,Understand,Groceries,Hill-Porter,1004.95,869
+P00753,Community,Fashion,Duncan LLC,798.74,349
+P00754,Girl,Books,Fischer-Robinson,1185.9,571
+P00755,Boy,Books,Stark PLC,202.19,867
+P00756,Teacher,Home Appliances,"Harvey, Walter and Soto",1423.18,933
+P00757,Suggest,Home Appliances,Baker Ltd,642.39,591
+P00758,Understand,Groceries,"Moore, Mendoza and Walker",652.28,494
+P00759,Cell,Electronics,Cunningham-Knox,133.16,262
+P00760,Data,Fashion,Kelly Inc,1534.39,778
+P00761,Run,Fashion,Nelson PLC,891.4,549
+P00762,Assume,Fashion,"Bruce, Odonnell and Harper",168.95,746
+P00763,Between,Fashion,Shaw-Mullins,855.55,589
+P00764,Their,Books,Blankenship-Hopkins,467.27,874
+P00765,Away,Electronics,Austin-Farrell,481.42,266
+P00766,Everybody,Electronics,"Hill, Walker and Turner",1114.96,465
+P00767,Sea,Electronics,Miranda-Ramirez,281.06,862
+P00768,Few,Sports,"Solomon, Bell and Rodriguez",1058.01,123
+P00769,Heavy,Books,"Gonzalez, Allison and Atkins",1072.91,619
+P00770,Budget,Books,"Rodriguez, Donaldson and Garcia",1430.04,729
+P00771,Short,Electronics,"Walton, Baker and Molina",1992.78,197
+P00772,Food,Sports,"Dunn, Espinoza and Wilson",794.69,137
+P00773,Book,Sports,Stevens-Shaw,967.14,79
+P00774,Effort,Sports,Mann-Vaughn,1492.99,643
+P00775,Marriage,Electronics,Salazar PLC,1572.7,635
+P00776,Arm,Books,"Johnson, Rosales and Lewis",710.99,689
+P00777,Note,Groceries,Ortiz Group,1501.97,55
+P00778,Factor,Books,Brown-Carroll,248.22,115
+P00779,Star,Fashion,"Buckley, Singleton and Martinez",419.38,499
+P00780,Side,Groceries,Higgins-Bowen,268.45,84
+P00781,Degree,Groceries,"Garcia, Maxwell and Ray",26.15,489
+P00782,Enjoy,Fashion,Baker-Henderson,1935.97,280
+P00783,Get,Groceries,Gonzalez-Welch,1177.61,683
+P00784,Me,Groceries,Ross Inc,1012.15,225
+P00785,Civil,Books,Cardenas-Wallace,47.52,871
+P00786,Technology,Fashion,Oconnell-Thompson,993.44,609
+P00787,Dinner,Groceries,"Perez, Garcia and Rodriguez",119.52,869
+P00788,Democrat,Electronics,"Thompson, Jackson and Everett",920.64,945
+P00789,Statement,Groceries,"Lopez, Price and Taylor",840.16,720
+P00790,Onto,Home Appliances,Campbell-Schwartz,709.23,709
+P00791,Before,Electronics,"Mccoy, Gill and Vang",1257.78,54
+P00792,Different,Fashion,"Murphy, Zhang and Howe",829.28,454
+P00793,Common,Books,Contreras-Warren,1739.39,536
+P00794,Fast,Books,"Nelson, Williams and Smith",1514.03,436
+P00795,Shoulder,Groceries,Torres PLC,607.56,184
+P00796,Sport,Electronics,Anderson-Lee,328.82,399
+P00797,Guess,Electronics,Moses Group,1069.87,942
+P00798,Movement,Books,"Schneider, Brown and Dixon",1630.47,787
+P00799,Animal,Electronics,"Frost, Nolan and Tran",236.85,308
+P00800,Former,Electronics,Burnett-Mays,1691.08,35
+P00801,When,Groceries,Nunez PLC,372.07,321
+P00802,Husband,Groceries,"Hicks, Gallegos and Hill",1343.54,75
+P00803,Pay,Books,Wu-Bauer,1294.96,890
+P00804,At,Electronics,Jenkins Inc,166.09,377
+P00805,Many,Home Appliances,Anderson-Anderson,205.25,242
+P00806,Month,Groceries,Caldwell Ltd,744.23,979
+P00807,Senior,Books,Fox-Patterson,736.36,341
+P00808,Debate,Fashion,Carr Inc,764.16,522
+P00809,Suggest,Groceries,Singleton Inc,1178.47,255
+P00810,Buy,Sports,Fisher-Morse,138.9,703
+P00811,Environmental,Groceries,"White, Jackson and Blair",1630.65,954
+P00812,Billion,Home Appliances,Manning Inc,1298.52,171
+P00813,Since,Home Appliances,Webster PLC,459.31,726
+P00814,Help,Sports,Lopez and Sons,949.99,141
+P00815,Determine,Books,"Leonard, Davis and Wilcox",924.58,220
+P00816,Difference,Sports,Morales-Harper,302.6,715
+P00817,Cost,Fashion,"Oconnor, Parrish and Duncan",1932.62,905
+P00818,Most,Groceries,Leonard-Dawson,743.6,718
+P00819,I,Home Appliances,"Elliott, Carter and Rose",1818.85,471
+P00820,Action,Home Appliances,Sanchez PLC,389.28,448
+P00821,Marriage,Home Appliances,Lyons-Torres,603.94,263
+P00822,Matter,Electronics,"Wu, Norris and Young",840.33,896
+P00823,Without,Groceries,"Rogers, Gomez and Walker",100.07,702
+P00824,Goal,Groceries,Michael and Sons,84.85,828
+P00825,Staff,Books,Schwartz LLC,1488.68,419
+P00826,But,Fashion,Morris Group,564.47,368
+P00827,Crime,Home Appliances,Gonzalez-Mitchell,1153.84,75
+P00828,Write,Electronics,Evans-Phillips,1570.6,304
+P00829,Perform,Groceries,"Clements, Miller and Williams",360.03,596
+P00830,Mrs,Fashion,Hoover-King,1809.0,878
+P00831,Issue,Sports,Ayers and Sons,117.05,422
+P00832,Scene,Books,"Rivera, Shepard and Alexander",1691.07,386
+P00833,Support,Fashion,"Mcdaniel, Robinson and Ortiz",716.99,783
+P00834,Participant,Books,Stokes and Sons,1187.65,478
+P00835,Environmental,Books,"Osborne, Weaver and Montoya",1889.47,113
+P00836,Another,Electronics,Gilbert Inc,1660.61,85
+P00837,Agreement,Home Appliances,"Wilson, Ortiz and Ritter",579.24,975
+P00838,Off,Books,"Johnson, Sutton and Bridges",990.6,10
+P00839,Car,Electronics,"Martinez, Flores and Mills",1599.39,50
+P00840,Two,Electronics,"Smith, Davila and Jones",384.87,216
+P00841,Off,Electronics,Kidd and Sons,648.4,807
+P00842,Four,Electronics,"Jimenez, Elliott and Nguyen",11.46,226
+P00843,Music,Electronics,Barnett Ltd,190.1,695
+P00844,Put,Groceries,"Mullins, Davis and Walker",1828.86,568
+P00845,Fire,Fashion,Mccarty-Parsons,1347.1,550
+P00846,Care,Home Appliances,"Miller, Butler and Crane",1583.17,923
+P00847,Color,Sports,Harris-White,389.53,986
+P00848,Under,Groceries,Shaw-Weber,187.51,587
+P00849,Answer,Electronics,Harris-Ramirez,175.88,547
+P00850,Concern,Books,Murphy-Smith,843.16,654
+P00851,Over,Groceries,"Anderson, Gray and Perez",1809.39,415
+P00852,City,Fashion,Hendrix-Manning,96.57,407
+P00853,Care,Fashion,"Brock, Mueller and Yu",543.19,540
+P00854,Notice,Electronics,Wallace-Thomas,437.42,179
+P00855,Take,Home Appliances,"Johnston, Pearson and Zavala",216.66,78
+P00856,Mother,Electronics,Johnson-Garcia,1148.63,331
+P00857,Spend,Electronics,Wolfe-Vaughn,1256.52,760
+P00858,Art,Electronics,Rogers LLC,1677.19,177
+P00859,Budget,Books,"Rodriguez, Crane and Johnson",194.11,968
+P00860,Former,Fashion,"Moore, Roberts and Mcclure",899.68,804
+P00861,Seek,Electronics,Barker-Powell,1252.2,278
+P00862,Notice,Books,Cooper and Sons,690.85,518
+P00863,Fill,Sports,"Smith, Blair and Wilkerson",1382.19,921
+P00864,Run,Sports,Williams Group,1663.94,442
+P00865,Player,Home Appliances,"Page, White and Santos",765.79,914
+P00866,Report,Sports,Cunningham-Frost,1168.24,221
+P00867,Hold,Electronics,Douglas and Sons,529.13,238
+P00868,Remain,Books,"Gutierrez, Henry and Davila",425.04,923
+P00869,According,Fashion,Campbell Group,111.75,677
+P00870,Tough,Groceries,Mcmillan-Miller,1172.48,866
+P00871,Begin,Electronics,Hoover-Miller,1331.79,435
+P00872,Remember,Electronics,Washington Inc,161.57,260
+P00873,Main,Electronics,Torres-White,1673.33,181
+P00874,Management,Home Appliances,Hall Group,1071.3,435
+P00875,Too,Home Appliances,"Vega, Butler and Hogan",1209.4,755
+P00876,Son,Sports,Avila Group,1739.23,181
+P00877,Huge,Electronics,"George, Gutierrez and Watts",1078.21,682
+P00878,Them,Groceries,"Salazar, Schultz and West",481.11,132
+P00879,Mission,Fashion,Smith PLC,1711.36,215
+P00880,Themselves,Fashion,Torres-Wood,355.44,632
+P00881,Majority,Fashion,Aguirre-Pacheco,145.24,217
+P00882,Actually,Electronics,"Wilson, Hartman and Wang",660.47,197
+P00883,Once,Fashion,Carter and Sons,1303.79,366
+P00884,Wait,Electronics,Myers and Sons,431.14,307
+P00885,Low,Groceries,Hamilton Inc,1652.31,847
+P00886,Of,Books,Phillips PLC,1082.22,585
+P00887,Kitchen,Home Appliances,"Wilson, Obrien and Moore",602.84,218
+P00888,Send,Home Appliances,Hanson Group,1190.48,940
+P00889,Produce,Fashion,Salas Group,620.19,926
+P00890,Hard,Electronics,"Fisher, Gomez and Hood",1963.76,711
+P00891,True,Fashion,Mueller LLC,980.86,693
+P00892,Policy,Sports,Robinson-Wu,1721.69,431
+P00893,Apply,Sports,"Watson, Leach and Anderson",1862.43,746
+P00894,Group,Groceries,Williams PLC,1520.66,740
+P00895,Fund,Fashion,"Martinez, Jackson and Washington",1451.76,529
+P00896,Ago,Home Appliances,"Maxwell, Stuart and Graham",1914.51,870
+P00897,Those,Home Appliances,Ferguson and Sons,1811.84,677
+P00898,Smile,Home Appliances,"Rodriguez, Curtis and Grimes",396.18,209
+P00899,Begin,Sports,"Spencer, Thompson and Baker",616.32,358
+P00900,If,Books,James and Sons,1601.47,641
+P00901,Certainly,Fashion,Henderson PLC,1196.42,156
+P00902,Use,Groceries,White and Sons,1139.8,428
+P00903,Thus,Electronics,Gordon-Stevens,1015.81,159
+P00904,Worker,Books,Mills Inc,136.67,384
+P00905,Worry,Sports,"Turner, Ramos and Stewart",1685.97,396
+P00906,Discussion,Home Appliances,Williams PLC,1006.17,43
+P00907,Black,Home Appliances,"Anderson, Hicks and Flores",1618.37,361
+P00908,Security,Sports,Curtis and Sons,940.36,21
+P00909,We,Fashion,"Martin, Rogers and Davis",1842.63,139
+P00910,Dinner,Home Appliances,"Ortiz, Stevens and Thompson",1892.82,427
+P00911,Peace,Home Appliances,Reese-Murphy,1305.61,746
+P00912,Such,Sports,Thompson-Scott,1656.56,385
+P00913,Task,Sports,White LLC,900.37,153
+P00914,Early,Books,Scott-Pierce,624.8,743
+P00915,Note,Books,Perry-Mack,926.67,139
+P00916,Research,Electronics,"Austin, Bennett and Webster",1979.09,347
+P00917,Describe,Groceries,Morales LLC,1085.43,434
+P00918,Will,Books,"Stanley, Robertson and Rodriguez",1324.85,78
+P00919,Culture,Electronics,"Ramirez, Brown and Johnson",1921.11,151
+P00920,Again,Books,"Mata, Green and Williams",886.12,498
+P00921,His,Groceries,"Dean, Tran and Russell",729.75,41
+P00922,Arrive,Fashion,Smith-Chang,1258.76,282
+P00923,Sport,Groceries,Lynch and Sons,96.93,337
+P00924,Add,Sports,"Cortez, Scott and Watson",885.27,341
+P00925,War,Groceries,Sharp-Page,74.35,485
+P00926,We,Electronics,Sullivan Ltd,1602.79,299
+P00927,Human,Electronics,"Graham, Cohen and Robertson",1885.33,359
+P00928,Later,Sports,Price-Diaz,989.77,589
+P00929,Much,Electronics,Snyder-Sloan,1639.56,277
+P00930,Add,Fashion,"Taylor, Estrada and Larson",1916.07,264
+P00931,None,Groceries,"Johnson, Randall and Beard",1472.28,972
+P00932,Company,Home Appliances,"Smith, Sparks and Coleman",1029.88,926
+P00933,Exist,Groceries,Schwartz-Blackburn,1462.56,63
+P00934,Significant,Groceries,Harrison-Bowers,1188.18,935
+P00935,Middle,Fashion,"Nolan, George and Mcdonald",1952.72,246
+P00936,City,Fashion,Jacobson-Jones,386.42,559
+P00937,Poor,Books,"Stephens, Hoffman and Gilbert",744.4,981
+P00938,Always,Electronics,Ashley and Sons,937.48,480
+P00939,Quickly,Groceries,Park-Adams,434.52,815
+P00940,Find,Books,Hudson-Campbell,1935.75,692
+P00941,Your,Sports,Smith and Sons,1079.23,686
+P00942,After,Books,Jackson and Sons,1837.57,774
+P00943,Exist,Electronics,Dyer-Wood,290.93,855
+P00944,Contain,Fashion,"Quinn, Porter and Murillo",1279.26,673
+P00945,Available,Groceries,Porter Group,788.25,24
+P00946,Environmental,Sports,Hernandez-Gordon,1971.04,608
+P00947,Its,Books,Richards LLC,404.69,900
+P00948,Entire,Groceries,Torres PLC,1441.02,948
+P00949,Space,Groceries,Davis-Knight,1600.41,915
+P00950,Subject,Groceries,"Price, Bass and Knight",926.74,775
+P00951,Film,Books,Wyatt and Sons,57.32,451
+P00952,Politics,Groceries,Torres-Dennis,1693.03,392
+P00953,Friend,Sports,Lucero Inc,376.13,51
+P00954,Citizen,Fashion,Barker Group,740.06,432
+P00955,Choose,Fashion,Carter Inc,1818.7,713
+P00956,Many,Sports,"Edwards, Green and Manning",1512.1,25
+P00957,Feeling,Home Appliances,Smith-Oliver,477.15,985
+P00958,Enter,Electronics,"Elliott, Barber and Cooper",1094.44,842
+P00959,Feeling,Sports,Johnson Inc,1727.03,797
+P00960,Statement,Home Appliances,Barnes PLC,868.03,162
+P00961,Avoid,Groceries,"Hendrix, Alexander and White",1497.63,438
+P00962,Through,Sports,Whitaker-Friedman,543.3,16
+P00963,Option,Home Appliances,"Rowland, Conner and Campbell",1671.75,375
+P00964,Response,Sports,Hernandez Inc,279.63,492
+P00965,Report,Fashion,"Martin, Stevens and Peters",1195.31,921
+P00966,Respond,Groceries,Larsen-Smith,969.97,448
+P00967,Play,Books,Williams-Brown,1250.34,654
+P00968,Organization,Fashion,Higgins Group,1809.84,45
+P00969,Like,Home Appliances,Torres Ltd,1546.96,626
+P00970,Marriage,Books,Carter Inc,188.18,365
+P00971,Same,Home Appliances,Larson-Robinson,1163.95,26
+P00972,High,Fashion,Haynes-Gomez,1238.94,169
+P00973,Behind,Books,Trevino-Meyer,1157.1,641
+P00974,Listen,Books,Clay-Gardner,721.67,451
+P00975,These,Home Appliances,Edwards Inc,1304.43,815
+P00976,Practice,Books,Brown-Gibson,1066.8,314
+P00977,Reflect,Sports,Hernandez PLC,1153.31,244
+P00978,Benefit,Sports,Dean Ltd,1334.76,210
+P00979,Under,Books,Reed Inc,394.67,18
+P00980,Million,Electronics,Blackburn PLC,1134.09,498
+P00981,Our,Fashion,Torres-Johnson,852.21,636
+P00982,Arm,Groceries,"Hughes, Howard and Flores",268.34,741
+P00983,How,Groceries,Harrison PLC,617.36,829
+P00984,Detail,Electronics,Hernandez and Sons,993.23,327
+P00985,How,Electronics,Oconnell Inc,1537.48,843
+P00986,By,Groceries,Whitehead-Robinson,793.14,401
+P00987,Allow,Home Appliances,Bonilla PLC,1243.72,845
+P00988,Positive,Electronics,"Kaiser, Cook and Miller",286.6,117
+P00989,Door,Groceries,Elliott-Saunders,1529.79,451
+P00990,Practice,Home Appliances,Wilson-Friedman,1679.8,734
+P00991,Any,Groceries,Black-Shelton,1301.04,911
+P00992,Brother,Home Appliances,Gray Group,1231.38,229
+P00993,Research,Electronics,"Hayden, Elliott and King",954.62,340
+P00994,Building,Home Appliances,Martinez Inc,586.08,265
+P00995,Car,Home Appliances,Michael-White,155.92,534
+P00996,Imagine,Books,Gilbert-Rodriguez,1026.3,928
+P00997,Strong,Books,Jackson-Taylor,229.0,107
+P00998,List,Fashion,"Campbell, Guerrero and Warner",163.45,103
+P00999,Until,Home Appliances,Benson-Wilson,1223.45,197
+P01000,Suffer,Groceries,Pierce-Ryan,862.98,227
