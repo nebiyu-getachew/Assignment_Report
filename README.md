@@ -16,7 +16,7 @@ This project implements a **data engineering pipeline** to process, store, and a
   1. **Load Raw Data**:
      - Load CSV files into PySpark DataFrames using the `read.csv` function.
 
-     ![alt text](image.png)
+     ![alt text](image/image.png)
 
   2. **Inspect Data**:
      - Check for missing values, duplicates, and data type inconsistencies.
