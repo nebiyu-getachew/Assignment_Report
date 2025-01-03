@@ -364,6 +364,38 @@ The general objective of this project is to implement a scalable and efficient d
   #### Assumptions:
   - This analysis assumes that the data reflects all transactions recorded from **November 24, 2024**, to **December 23, 2024**.
   - The insights rely on the completeness and accuracy of the transaction data, with the last recorded transaction made on **December   23, 2024**.
+  
+  ---
+
+  **E-Commerce Sales Insights**
+
+  ### **Overview**
+  This report summarizes key insights from transactional, product, and customer data. The analysis was conducted using a star   schema-based data warehouse, with findings visualized in Power BI.
+
+  ---
+  ![alt text](<image/E-commerce Analytics.jpg>)
+  ---
+
+  ### **Key Findings**
+
+  #### **1. Top Customers**
+  - The top 5 customers contributed significantly to revenue, with Dawn Fry leading at 9,139.47.
+  - These high-value customers represent an opportunity for loyalty programs and targeted promotions.
+
+  #### **2. Best-Selling Products**
+  - The most popular products in each category were identified, including:
+    - **Home Appliances**: "Represent" (71 units sold).
+    - **Sports**: "Success" (70 units sold).
+    - **Fashion**: "Reality" (60 units sold).
+  - Stocking and promoting these items can maximize sales potential.
+
+  #### **3. Daily Sales Trends**
+  - Sales peaked at 25,176.03 on December 20, 2024, and dropped to 3,000.21 on December 23, 2024.
+  - These trends help in aligning inventory and promotions with demand patterns.
+
+  #### **4. Top Category**
+  - The Fashion category recorded the highest sales in the last month, totaling 12,038.07.
+  - Its strong performance indicates a key focus area for future campaigns.
 
 ---
 ### **Task 5: Optimization**
